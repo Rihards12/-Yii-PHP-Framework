@@ -15,3 +15,5 @@ To install the advanced application template, run the following command:
 
 php composer.phar create-project yiisoft/yii2-app-advanced advanced
 
+
+php composer.phar update yiisoft/yii2 yiisoft/yii2-composer bower-asset/jquery.inputmask
